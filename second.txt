@@ -1,3 +1,10 @@
 git remote add origin https://github.com/bharatkumar87/git_prac.git
 
 git push -u origin master
+
+
+static linking, cmake.
+
+dynamic linking, gcc.
+
+
